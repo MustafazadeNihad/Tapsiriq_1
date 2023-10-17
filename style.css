@@ -1,0 +1,67 @@
+.main-box,.lol{
+    display: flex;
+    background-color: yellow;
+    justify-content: space-between;
+}
+li{
+    list-style: none;
+}
+
+input {
+    margin: 10px 25px 10px 25px;
+    background-color: rgb(216, 216, 35);
+    
+}
+
+.main-box ul li {
+    margin: 1px 25px;
+}
+.main-box{width: 100%;}
+.main-box1{
+    margin: 20px 150px 30px 150px;
+}
+.box1 h2{
+    text-transform: uppercase;
+}
+.box2 h2{
+    text-transform: capitalize;
+    color: yellow;
+}
+.row{
+    display: flex;
+}
+.row img{
+    width: 250px;
+    height: 150px;
+}
+.row .second{
+    margin: 0px 15px 0px 15px;
+}
+.row i{
+    color: rgb(255, 255, 0);
+}
+.main-box2{
+    display: flex;
+    text-align: left;
+    margin: 0px 100px 0px 0px;
+    background-color: yellow;
+    width: 100%;
+}
+.main-box2 div{
+    margin: 0px 40px 0px 40px;
+    justify-content: space-between;
+    width: 20%;
+}
+footer{
+    display: flex;
+}
+footer ul,footer{
+   display: flex;
+   background-color: rgb(179, 179, 6);
+   justify-content: space-between;
+}
+footer ul li{
+    margin: 35px 15px 0px 15px;
+}
+
+
